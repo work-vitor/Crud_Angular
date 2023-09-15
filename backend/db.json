@@ -17,6 +17,12 @@
       "conteudo": "Teste API 3.0",
       "autoria": "Jão",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Teste Edtiar",
+      "autoria": "Dev editar1.0",
+      "modelo": "modelo3",
+      "id": 4
     }
   ]
 }
